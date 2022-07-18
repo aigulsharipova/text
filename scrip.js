@@ -1,4 +1,2 @@
-function hey() {
-document.body.style.backgroundColor = "pink"
-}
-setTimeout(hey, 3000);
+const text = "I love NYC"
+console.log(text.charAt(5));
